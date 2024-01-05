@@ -33,6 +33,8 @@ public class App {
         printList(animals);
     }
 
+    // Linkedlist and ArrayList are both children of the List class.
+
     public static void printList(List someList) {
         for (int i = 0; i < someList.size(); i++) {
             System.out.println(someList.get(i));

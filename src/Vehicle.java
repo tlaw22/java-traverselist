@@ -33,5 +33,9 @@ public class Vehicle {
         this.price = price;
         this.fourDrive = fourDrive;
     }
+    @Override
+    public String toString() {
+        return "Vehicle [make=" + make + ", model=" + model + ", price=" + price + ", fourDrive=" + fourDrive + "]";
+    }
     
 }

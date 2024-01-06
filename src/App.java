@@ -10,7 +10,7 @@ public class App {
         animals.add("Zebra");
         animals.add("Hippo");
         animals.add("Cheetah");
-        // animals.add("Elephant");
+        animals.add("Elephant");
         // for (int i = 0; i < animals.size(); i++) {
         //     System.out.println(animals.get(i));
         // }
